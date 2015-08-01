@@ -1,0 +1,10 @@
+{
+  "name": "myNodeProj",
+  "version": "0.0.0",
+  "description": "myNodeProj",
+  "main": "app.js",
+  "author": {
+    "name": "LUHY",
+    "email": ""
+  }
+}
